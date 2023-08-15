@@ -29,7 +29,7 @@ function Header()
 <div>
 <Navbar expand="sm" bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">To-Do</Navbar.Brand>
+        <Navbar.Brand href="#home">Management System</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ms-auto">
